@@ -1,0 +1,9 @@
+{
+  "name": "Copy of OK PLACE 4 PF",
+  "description": "Application de référence pour l'immobilier et la restauration au Cameroun.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
